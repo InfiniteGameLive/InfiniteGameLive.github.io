@@ -1,3 +1,6 @@
+
+gkuhkuhk
+
 <script>
-   document.location.replace("https://google.com"); 
+   document.location.replace("https://elive.cf/Html_main"); 
 </script>
